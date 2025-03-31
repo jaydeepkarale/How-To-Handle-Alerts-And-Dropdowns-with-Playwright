@@ -14,8 +14,8 @@ capabilities = {
     'browserVersion': 'latest',
     'LT:Options': {
         'platform': 'Windows 11',
-        'build': 'Playwright Locators Demo Build',
-        'name': 'Playwright Locators Test For Windows 11 & Chrome',
+        'build': 'Playwright Dropdown Demo Build',
+        'name': 'Playwright Dropdown Test For Windows 11 & Chrome',
         'user': os.getenv('LT_USERNAME'),
         'accessKey': os.getenv('LT_ACCESS_KEY'),
         'network': False,
